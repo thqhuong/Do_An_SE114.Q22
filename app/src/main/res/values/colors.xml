@@ -2,4 +2,21 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_dark">#0B0E14</color>
+    <color name="bg_card">#181B24</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+
+    <color name="quick_play_start">#A061FF</color>
+    <color name="quick_play_end">#3DE1FF</color>
+
+    <color name="accent_cyan">#3DE1FF</color>
+    <color name="accent_purple">#A061FF</color>
+    <color name="accent_pink">#FF61D2</color>
+
+    <color name="coin_bg">#251E3A</color>
+    <color name="coin_yellow">#FFD700</color>
+
+    <color name="nav_inactive">#4E4E4E</color>
 </resources>
