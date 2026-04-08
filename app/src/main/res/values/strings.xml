@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">SE114_G3</string>
+    <string name="app_name">ABoardG</string>
+    <string name="profile_initials">ZG</string>
+    <string name="username_placeholder">genzgamer</string>
+    <string name="level_label">Level 12</string>
+    <string name="coins_placeholder">2,450</string>
+    <string name="coins_desc">Coins</string>
+    <string name="quick_play">Quick Play</string>
+    <string name="popular_games">Popular Games</string>
+    <string name="popular_games_desc">Jump into the action with friends</string>
+    <string name="spyfall">Spyfall</string>
+    <string name="poker">Poker</string>
+    <string name="play_now">Play Now</string>
+    <string name="players_4_8">4-8 Players</string>
+    <string name="games_won">Games Won</string>
+    <string name="games_won_val">47</string>
+    <string name="win_rate">Win Rate</string>
+    <string name="win_rate_val">68%</string>
+    <string name="streak">Streak</string>
+    <string name="streak_val">12</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_store">Store</string>
+    <string name="nav_friends">Friends</string>
+    <string name="nav_settings">Settings</string>
 </resources>
